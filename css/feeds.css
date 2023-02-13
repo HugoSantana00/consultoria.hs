@@ -51,4 +51,7 @@ footer{
 #ft1{
     height: 100%;
 }
+#ft1{
+    object-fit: cover;
+}
 
